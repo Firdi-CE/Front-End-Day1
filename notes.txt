@@ -1,0 +1,11 @@
+racfe react arrow component
+
+grow nge-fill space available yang kosong
+
+justify between... nge-adjust space di tengah-nya
+justify center... nge-adjust space di pinggir (biar nengah)
+justify around... nge-adjust space di pinggir tiap object
+
+space-x-5 sama kaya gap-5
+
+object cover untuk ngezoom gambar nyesuaiin settingan
